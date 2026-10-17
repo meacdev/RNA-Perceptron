@@ -1,9 +1,9 @@
 class Neuron:
     def __init__(self, dataset):
         self.dataset = dataset
-        self.X = np.insert(dataset[:, :-1], 0, 1, axis=1)
-        self.Yd = dataset[:, -1]
-        self.weights = np.zeros(3, dtype=int)
+        self.X = np.insert(self.dataset[:, :-1], 0, 1, axis=1)
+        self.Yd = self.dataset[:, -1]
+        self.weights = np.zeros(3, dtype=float)
         self.learning_rate = 0.1
         self.w_adjust_count = 0
         self.epochs = 0
@@ -20,11 +20,16 @@ class Neuron:
         else:
             return 1
 
+    def init_weights(self):
+        for i in range(3):
+            self.weights[i] = random.uniform(-0.5, 0.5)
+        print(f"Vetor inicial de pesos: ({self.weights[0]},{self.weights[1]}, {self.weights[2]})")
+        
     def adjust_weights(self, inputs, weights, error):
         return weights + self.learning_rate * error * inputs
 
     def train(self, inputs, targets):
-        print(f"Vetor inicial de pesos: {self.weights}")
+        self.init_weights()
         while True:
             had_error = False
             for xi, yi in zip(inputs, targets):
