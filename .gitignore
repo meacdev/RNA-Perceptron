@@ -6,3 +6,7 @@ venv/
 .data/
 .env
 env/
+tmp/
+
+__pycache__/
+*.pyc
