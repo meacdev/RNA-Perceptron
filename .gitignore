@@ -7,3 +7,6 @@ venv/
 .env
 env/
 tmp/
+
+__pycache__/
+*.pyc
