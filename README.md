@@ -24,3 +24,17 @@ E configurar os caminhos no arquivo .env
 Tenha ciência de que os dois primeiros datasets devem ser problemas linearmente separáveis e o último não deve ser.
 
 As bibliotecas utilizadas estão em `requirements.txt`
+
+# Referências
+
+1. Elloah Barreto Guedes da Costa  
+2. FACELI, K.; LORENA, A. C.; GAMA, J.; ALMEIDA, T. A. de; CARVALHO, A. C. P. L. F. de. Inteligência
+artificial: uma abordagem de aprendizado de máquina. 3. ed. rev. ampl. Rio de Janeiro: LTC, 2025.  
+3. BRAGA, A. P.; CARVALHO, A. C. P. L. F. de; LUDERMIR, T. B. Redes neurais artificiais: teoria e
+aplicações. 2. ed. Rio de Janeiro: LTC, 2011.  
+4. HAYKIN, S. Redes neurais: princípios e prática. Tradução Paulo Martins Engel. 2. ed. Porto Alegre:
+Bookman, 2001.
+5. NUMPY. NumPy. Disponível em: <https://numpy.org/>. Acesso em: 20 out. 2026.  
+6. NUMPY. NumPy documentation. Disponível em: <https://numpy.org/doc/stable/>. Acesso em: 20 out. 2026.  
+7. MATPLOTLIB. matplotlib.pyplot.scatter. In: Matplotlib 3.3.0 documentation. Disponível em: <https://matplotlib.org/3.3.0/api/_as_gen/matplotlib.pyplot.scatter.html>. Acesso em: 20 out. 2026.  
+8. VANDERPLAS, J. Simple scatter plots. In: VANDERPLAS, J. Python data science handbook. Sebastopol: O'Reilly Media, 2016. Disponível em: <https://jakevdp.github.io/PythonDataScienceHandbook/04.02-simple-scatter-plots.html>. Acesso em: 20 out. 2026.  
