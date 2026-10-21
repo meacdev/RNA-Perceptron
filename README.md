@@ -34,7 +34,7 @@ artificial: uma abordagem de aprendizado de máquina. 3. ed. rev. ampl. Rio de J
 aplicações. 2. ed. Rio de Janeiro: LTC, 2011.  
 4. HAYKIN, S. Redes neurais: princípios e prática. Tradução Paulo Martins Engel. 2. ed. Porto Alegre:
 Bookman, 2001.
-5. NUMPY. NumPy. Disponível em: <https://numpy.org/>. Acesso em: 20 out. 2026.  
-6. NUMPY. NumPy documentation. Disponível em: <https://numpy.org/doc/stable/>. Acesso em: 20 out. 2026.  
-7. MATPLOTLIB. matplotlib.pyplot.scatter. In: Matplotlib 3.3.0 documentation. Disponível em: <https://matplotlib.org/3.3.0/api/_as_gen/matplotlib.pyplot.scatter.html>. Acesso em: 20 out. 2026.  
-8. VANDERPLAS, J. Simple scatter plots. In: VANDERPLAS, J. Python data science handbook. Sebastopol: O'Reilly Media, 2016. Disponível em: <https://jakevdp.github.io/PythonDataScienceHandbook/04.02-simple-scatter-plots.html>. Acesso em: 20 out. 2026.  
+5. NUMPY. NumPy. Disponível em: <https://numpy.org/>.  
+6. NUMPY. NumPy documentation. Disponível em: <https://numpy.org/doc/stable/>.
+7. MATPLOTLIB. matplotlib.pyplot.scatter. In: Matplotlib 3.3.0 documentation. Disponível em: <https://matplotlib.org/3.3.0/api/_as_gen/matplotlib.pyplot.scatter.html>.  
+8. VANDERPLAS, J. Simple scatter plots. In: VANDERPLAS, J. Python data science handbook. Sebastopol: O'Reilly Media, 2016. Disponível em: <https://jakevdp.github.io/PythonDataScienceHandbook/04.02-simple-scatter-plots.html>.
