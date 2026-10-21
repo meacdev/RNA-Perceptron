@@ -25,7 +25,7 @@ Tenha ciência de que os dois primeiros datasets devem ser problemas linearmente
 
 As bibliotecas utilizadas estão em `requirements.txt`
 
-# Referências
+## Referências
 
 1. Elloah Barreto Guedes da Costa  
 2. FACELI, K.; LORENA, A. C.; GAMA, J.; ALMEIDA, T. A. de; CARVALHO, A. C. P. L. F. de. Inteligência
