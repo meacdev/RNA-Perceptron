@@ -2,6 +2,19 @@
 
 ## Sobre o repositório
 Este repositório foi criado por Matheus Costa e Abner Tadeu para a conclusão de um projeto prático para a disciplina de Redes Neurais Artificiais ministrada no segundo semestre de 2026 na Universidade do Amazonas
+
+### Informações da equipe
+
+| Integrante | Matrícula | GitHub |
+| :--- | :--- | :--- |
+| Matheus Costa | `2415080056` | [meacdev](https://github.com/meacdev) |
+| Abner Tadeu | `2315080001` | [Abnt140](https://github.com/Abnt140) |
+
+### Identificador da Equipe
+
+`6 + 1 = 7`  
+`7 mod 4 = 3`
+
 ### Resumo
 A instrução para execução do projeto foi repassada pela professora Elloá Guedes, englobando três partes principais:
 - Parte I - Resolvendo um problema linearmente separável
